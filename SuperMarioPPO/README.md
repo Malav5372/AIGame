@@ -4,7 +4,7 @@
 
 ## Introduction
 
-"My project, 'SuperMarioPPO,' emerged victorious at the 'Byte Brains: The ML Byte-athlon' hackathon helad at Gujarat Tecchnological university at the state level, unveiling the potential of reinforcement learning in the realm of Super Mario. Through the implementation of Proximal Policy Optimization (PPO), I transformed Mario into an AI-driven gaming sensation, conquering levels with precision. This win underscores my commitment and ingenuity in machine learning, spotlighting the remarkable capabilities of AI within the gaming world.
+"My project, 'SuperMarioPPO,' emerged victorious at the 'Byte Brains: The ML Byte-athlon' hackathon helad at Gujarat Technological university , unveiling the potential of reinforcement learning in the realm of Super Mario. Through the implementation of Proximal Policy Optimization (PPO), I transformed Mario into an AI-driven gaming sensation, conquering levels with precision. This win underscores my commitment and ingenuity in machine learning, spotlighting the remarkable capabilities of AI within the gaming world.
 
 Here is my python source code for training an agent to play super mario bros. By using Proximal Policy Optimization (PPO) algorithm introduced in the paper **Proximal Policy Optimization Algorithms** [paper](https://arxiv.org/abs/1707.06347).
 
