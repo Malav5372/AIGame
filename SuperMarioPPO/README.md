@@ -1,6 +1,6 @@
 # SuperMarioPPO: Proximal Policy Optimization (Reinforcement Learning) implementation In the MushRoom Kingdom
 
-![giphy](https://github.com/Malav5372/SuperMarioPPO/assets/144440737/f0db61b8-0e8e-410f-8ce3-5e59ca0e66fb|width=400)
+![giphy](https://github.com/Malav5372/SuperMarioPPO/assets/144440737/f0db61b8-0e8e-410f-8ce3-5e59ca0e66fb)
 
 ## Introduction
 
