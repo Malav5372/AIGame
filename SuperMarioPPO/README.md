@@ -1,5 +1,7 @@
 # SuperMarioPPO: Proximal Policy Optimization (Reinforcement Learning) implementation In the MushRoom Kingdom
 
+![giphy](https://github.com/Malav5372/SuperMarioPPO/assets/144440737/f0db61b8-0e8e-410f-8ce3-5e59ca0e66fb)
+
 ## Introduction
 
 "My project, 'SuperMarioPPO,' emerged victorious at the 'Byte Brains: The ML Byte-athlon' hackathon helad at Gujarat Tecchnological university at the state level, unveiling the potential of reinforcement learning in the realm of Super Mario. Through the implementation of Proximal Policy Optimization (PPO), I transformed Mario into an AI-driven gaming sensation, conquering levels with precision. This win underscores my commitment and ingenuity in machine learning, spotlighting the remarkable capabilities of AI within the gaming world.
