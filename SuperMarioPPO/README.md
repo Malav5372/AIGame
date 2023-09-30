@@ -1,6 +1,6 @@
 # SuperMarioPPO: Proximal Policy Optimization (Reinforcement Learning) implementation In the MushRoom Kingdom
 
-![giphy](https://github.com/Malav5372/SuperMarioPPO/assets/144440737/f0db61b8-0e8e-410f-8ce3-5e59ca0e66fb)
+![giphy](https://github.com/Malav5372/SuperMarioPPO/assets/144440737/f0db61b8-0e8e-410f-8ce3-5e59ca0e66fb|width=400)
 
 ## Introduction
 
@@ -11,6 +11,8 @@ Here is my python source code for training an agent to play super mario bros. By
 Talking about performance, my PPO-trained agent could complete 31/32 levels, which is much better than what I expected at the beginning. 
 
 For your information, PPO is the algorithm proposed by OpenAI and used for training OpenAI Five, which is the first AI to beat the world champions in an esports game. Specifically, The OpenAI Five dispatched a team of casters and ex-pros with MMR rankings in the 99.95th percentile of Dota 2 players in August 2018.
+
+## PPO in SuperMarioBros in action : 
 
 <p align="left">
   <img src="demo/video-1-1.gif" width="250">
