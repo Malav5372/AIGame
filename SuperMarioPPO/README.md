@@ -1,4 +1,4 @@
-# SuperMarioPPO: Proximal Policy Optimization (Reinforcement Learning) implementation In the MushRoom Kingdom
+# SuperMarioPPO: [PYTORCH] Proximal Policy Optimization (Reinforcement Learning) implementation In the MushRoom Kingdom !
 
 ![giphy](https://github.com/Malav5372/SuperMarioPPO/assets/144440737/f0db61b8-0e8e-410f-8ce3-5e59ca0e66fb)
 
@@ -49,7 +49,7 @@ For your information, PPO is the algorithm proposed by OpenAI and used for train
   <i>PPO results</i>
 </p>
 
-## Motivation
+## Read More:
 
 It has been a while since I have released my A3C implementation ([A3C code](https://github.com/uvipen/Super-mario-bros-A3C-pytorch)) for training an agent to play super mario bros. Although the trained agent could complete levels quite fast and quite well (at least faster and better than I played :sweat_smile:), it still did not totally satisfy me. The main reason is, agent trained with A3C could only complete 19/32 levels, no matter how much I fine-tuned and tested. It motivated me to look for a new approach.
 
