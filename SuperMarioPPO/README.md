@@ -1,6 +1,8 @@
-# [PYTORCH] Proximal Policy Optimization (PPO) for playing Super Mario Bros
+# SuperMarioPPO: Proximal Policy Optimization (Reinforcement Learning) implementation In the MushRoom Kingdom
 
 ## Introduction
+
+"My project, 'SuperMarioPPO,' emerged victorious at the 'Byte Brains: The ML Byte-athlon' hackathon helad at Gujarat Tecchnological university at the state level, unveiling the potential of reinforcement learning in the realm of Super Mario. Through the implementation of Proximal Policy Optimization (PPO), I transformed Mario into an AI-driven gaming sensation, conquering levels with precision. This win underscores my commitment and ingenuity in machine learning, spotlighting the remarkable capabilities of AI within the gaming world.
 
 Here is my python source code for training an agent to play super mario bros. By using Proximal Policy Optimization (PPO) algorithm introduced in the paper **Proximal Policy Optimization Algorithms** [paper](https://arxiv.org/abs/1707.06347).
 
@@ -40,7 +42,7 @@ For your information, PPO is the algorithm proposed by OpenAI and used for train
   <img src="demo/video-8-1.gif" width="250">
   <img src="demo/video-8-2.gif" width="250">
   <img src="demo/video-8-3.gif" width="250"><br/>
-  <i>Sample results</i>
+  <i>PPO results</i>
 </p>
 
 ## Motivation
