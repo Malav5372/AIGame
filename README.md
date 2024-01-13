@@ -41,5 +41,6 @@ Implemented with Proximal Policy Optimization (PPO), my Python source code showc
   <i>PPO results</i>
 </p>
 
-### Refer
+
+### Refer the paper
 Proximal Policy Optimization (PPO) algorithm introduced in the paper **Proximal Policy Optimization Algorithms** [paper](https://arxiv.org/abs/1707.06347).
