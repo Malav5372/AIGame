@@ -61,23 +61,6 @@ With my code, you can:
 
 **Note**: If you got stuck at any level, try training again with different **learning rates**. You could conquer 31/32 levels like what I did, by changing only **learning rate**. Normally I set **learning rate** as **1e-3**, **1e-4** or **1e-5**. However, there are some difficult levels, including level **1-3**, in which I finally trained successfully with **learning rate** of **7e-5** after failed for 70 times.
 
-## Docker
-
-For being convenient, I provide Dockerfile which could be used for running training as well as test phases
-
-Assume that docker image's name is ppo. You only want to use the first gpu. You already clone this repository and cd into it.
-
-Build:
-
-`sudo docker build --network=host -t ppo .`
-
-Run:
-
-`docker run --runtime=nvidia -it --rm --volume="$PWD"/../SuperMarioPPO:/SuperMarioPPO-pytorch --gpus device=0 ppo`
-
-Then inside docker container, you could simply run **train.py** or **test.py** scripts as mentioned above.
-
-**Note**: There is a bug for rendering when using docker. Therefore, when you train or test by using docker, please comment line `env.render()` on script **src/process.py** for training or **test.py** for test. Then, you will not be able to see the window pop up for visualization anymore. But it is not a big problem, since the training process will still run, and the test process will end up with an output mp4 file for visualization
 
 ## Why there is still level 8-4 missing?
 
