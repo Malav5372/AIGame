@@ -1,10 +1,8 @@
-## SuperMarioPPO: [PYTORCH] Proximal Policy Optimization (Reinforcement Learning) implementation In the MushRoom Kingdom !
-
 ![giphy](https://github.com/Malav5372/SuperMarioPPO/assets/144440737/f0db61b8-0e8e-410f-8ce3-5e59ca0e66fb)
 
 ### Introduction
 
-My project, 'SuperMarioPPO' emerged victorious at the 'Machine Hack' hackathon held by Machine Hack unveiling the potential of reinforcement learning in the realm of Super Mario. Through the implementation of Proximal Policy Optimization (PPO) and A3C respectively, I transformed Mario into an AI-driven gaming sensation, conquering levels with precision. This win underscores my commitment and ingenuity in machine learning, spotlighting the remarkable capabilities of AI within the gaming world.
+Through the implementation of Proximal Policy Optimization (PPO) and A3C respectively, I transformed Mario into an AI-driven gaming sensation, conquering levels with precision. This win underscores my commitment and ingenuity in machine learning, spotlighting the remarkable capabilities of AI within the gaming world.
 
 Here is my python source code for training an agent to play super mario bros. By using Proximal Policy Optimization (PPO) algorithm introduced in the paper **Proximal Policy Optimization Algorithms** [paper](https://arxiv.org/abs/1707.06347).
 
@@ -51,9 +49,7 @@ For your information, PPO is the algorithm proposed by OpenAI and used for train
 
 ## Read More:
 
-  have released my A3C implementation ([A3C code](https://github.com/Malav5372/SuperMarioA3C/blob/719716cba68bf9da859c9fc103c6db6ea0bcd959/SuperMarioA3C/README.md)) for training an agent to play super mario bros. Although the trained agent could complete levels quite fast and quite well (at least faster and better than I played :sweat_smile:), it still did not totally satisfy me. The main reason is, agent trained with A3C could only complete 19/32 levels, no matter how much I fine-tuned and tested. It motivated me to look for a new approach.
-
- I had partially implemented a couple of other algorithms, including A2C and Rainbow. While the former did not show a big jump in performance, the latter is more suitable for more randomized environments/games, like ping-pong or space invaders.
+ I have released my A3C implementation ([A3C code](https://github.com/Malav5372/SuperMarioA3C/blob/719716cba68bf9da859c9fc103c6db6ea0bcd959/SuperMarioA3C/README.md)) for training an agent to play super mario bros. Although the trained agent could complete levels quite fast and quite well (at least faster and better than I played :sweat_smile:), it still did not totally satisfy me. The main reason is, agent trained with A3C could only complete 19/32 levels, no matter how much I fine-tuned and tested. It motivated me to look for a new approach.
 
 
 ## How to use my code
