@@ -2,13 +2,12 @@
 
 ### Introduction
 
-Through the implementation of Proximal Policy Optimization (PPO) and A3C respectively, I transformed Mario into an AI-driven gaming sensation, conquering levels with precision. This win underscores my commitment and ingenuity in machine learning, spotlighting the remarkable capabilities of AI within the gaming world.
+Implemented with Proximal Policy Optimization (PPO), my Python source code showcases the application of AI in mastering Super Mario Bros. The focus lies on training an agent through the PPO algorithm as detailed in the Proximal Policy Optimization Algorithms paper. The agent's performance is notable, successfully completing 31 out of 32 levels, exceeding initial expectations. This achievement highlights the efficacy of AI in gaming scenarios.
 
-Here is my python source code for training an agent to play super mario bros. By using Proximal Policy Optimization (PPO) algorithm introduced in the paper **Proximal Policy Optimization Algorithms** [paper](https://arxiv.org/abs/1707.06347).
+### Refer
+Proximal Policy Optimization (PPO) algorithm introduced in the paper **Proximal Policy Optimization Algorithms** [paper](https://arxiv.org/abs/1707.06347).
 
-Talking about performance, my PPO-trained agent could complete 31/32 levels, which is much better than what I expected at the beginning. 
 
-For your information, PPO is the algorithm proposed by OpenAI and used for training OpenAI Five, which is the first AI to beat the world champions in an esports game. Specifically, The OpenAI Five dispatched a team of casters and ex-pros with MMR rankings in the 99.95th percentile of Dota 2 players in August 2018.
 
 ## PPO in SuperMarioBros in action : 
 
