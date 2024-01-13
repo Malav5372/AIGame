@@ -7,8 +7,6 @@ Implemented with Proximal Policy Optimization (PPO), my Python source code showc
 ### Refer
 Proximal Policy Optimization (PPO) algorithm introduced in the paper **Proximal Policy Optimization Algorithms** [paper](https://arxiv.org/abs/1707.06347).
 
-
-
 ## PPO in SuperMarioBros in action : 
 
 <p align="left">
@@ -45,6 +43,4 @@ Proximal Policy Optimization (PPO) algorithm introduced in the paper **Proximal 
   <img src="demo/video-8-3.gif" width="250"><br/>
   <i>PPO results</i>
 </p>
-
-
 
