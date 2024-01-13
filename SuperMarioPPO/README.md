@@ -47,16 +47,4 @@ Proximal Policy Optimization (PPO) algorithm introduced in the paper **Proximal 
 </p>
 
 
-## How to use my code
 
-With my code, you can:
-
-* **Train your model** by running `python train.py`. For example: `python train.py --world 5 --stage 2 --lr 1e-4`
-* **Test your trained model** by running `python test.py`. For example: `python test.py --world 5 --stage 2`
-
-**Note**: If you got stuck at any level, try training again with different **learning rates**. You could conquer 31/32 levels like what I did, by changing only **learning rate**. Normally I set **learning rate** as **1e-3**, **1e-4** or **1e-5**. However, there are some difficult levels, including level **1-3**, in which I finally trained successfully with **learning rate** of **7e-5** after failed for 70 times.
-
-
-## Why there is still level 8-4 missing?
-
-In world 4-4, 7-4 and 8-4, map consists of puzzles where the player must choose the correct the path in order to move forward. If you choose a wrong path, you have to go through path you visited again. With some hardcore setting for the environment, the first 2 levels are solved. But the last level has not been solved yet.
