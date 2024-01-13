@@ -46,10 +46,6 @@ Proximal Policy Optimization (PPO) algorithm introduced in the paper **Proximal 
   <i>PPO results</i>
 </p>
 
-## Read More:
-
- I have released my A3C implementation ([A3C code](https://github.com/Malav5372/SuperMarioA3C/blob/719716cba68bf9da859c9fc103c6db6ea0bcd959/SuperMarioA3C/README.md)) for training an agent to play super mario bros. Although the trained agent could complete levels quite fast and quite well (at least faster and better than I played :sweat_smile:), it still did not totally satisfy me. The main reason is, agent trained with A3C could only complete 19/32 levels, no matter how much I fine-tuned and tested. It motivated me to look for a new approach.
-
 
 ## How to use my code
 
