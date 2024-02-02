@@ -4,17 +4,17 @@
 
 Implemented with Proximal Policy Optimization (PPO), my Python source code showcases the application of AI in mastering Super Mario Bros. The focus lies on training an agent through the PPO algorithm as detailed in the Proximal Policy Optimization Algorithms paper.
 
-## Some Examples : 
+### Some Examples : 
 
 <p align="left">
 
-#### world-1 
+#### world-1: 
   <img src="Example/w-1,s-1.gif" width="250">
   <img src="Example/w-1,s-2.gif" width="250">
   <img src="Example/w-1,s-3.gif" width="250">
   <img src="Example/w-1,s-4.gif" width="250"><br/>
 
-#### world-2
+#### world-2:
   <img src="Example/w-2,s-1.gif" width="250">
   <img src="Example/w-2,s-2.gif" width="250">
   <img src="Example/w-2,s-3.gif" width="250">
