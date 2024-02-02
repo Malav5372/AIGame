@@ -6,6 +6,10 @@ Implemented with Proximal Policy Optimization (PPO), my Python source code showc
 
 ### Concept Overview of the algorithm :
 
+Proximal Policy Optimization (PPO) is a reinforcement learning algorithm designed for training agents in environments where an intelligent agent must learn to make sequential decisions. Developed by OpenAI, PPO is specifically designed to strike a balance between sample efficiency, stability, and ease of implementation.
+
+The primary goal of PPO is to optimize policies for decision-making in reinforcement learning tasks. A policy in this context refers to the strategy or set of rules that an agent uses to determine its actions in a given state of the environment. PPO focuses on iteratively updating the policy in a way that ensures the changes are not too drastic, preventing policy updates from leading to undesirable and potentially unstable outcomes.
+
 ### Some Examples : 
 
 <p align="left">
