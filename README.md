@@ -7,14 +7,14 @@ Implemented with Proximal Policy Optimization (PPO), my Python source code showc
 ## Some Examples : 
 
 <p align="left">
-  <img src="Example/video-1-1.gif" width="250">
-  <img src="Example/video-1-2.gif" width="250">
-  <img src="Example/video-1-3.gif" width="250">
-  <img src="Example/video-1-4.gif" width="250"><br/>
-  <img src="Example/video-2-1.gif" width="250">
-  <img src="Example/video-2-2.gif" width="250">
-  <img src="Example/video-2-3.gif" width="250">
-  <img src="Example/video-2-4.gif" width="250"><br/>
+  <img src="Example/w-1,s-1.gif" width="250">
+  <img src="Example/w-1,s-2.gif" width="250">
+  <img src="Example/w-1,s-3.gif" width="250">
+  <img src="Example/w-1,s-4.gif" width="250"><br/>
+  <img src="Example/w-2,s-1.gif" width="250">
+  <img src="Example/w-2,s-2.gif" width="250">
+  <img src="Example/w-2,s-3.gif" width="250">
+  <img src="Example/w-2,s-4.gif" width="250"><br/>
 </p>
 
 
